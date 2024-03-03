@@ -1,2 +1,2 @@
 # FrackOnTrackSmath
-SmathHacks
+Project FrackOnTrack for SmathHacks2024
